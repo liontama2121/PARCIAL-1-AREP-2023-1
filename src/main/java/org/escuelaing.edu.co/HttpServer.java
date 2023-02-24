@@ -48,6 +48,7 @@ public class HttpServer {
                         }
 
                     }
+                     body = new StringBuffer(comando);
 
                      //Class c = c.forName(comando);
                      //Field[] lista2 =c.getDeclaredFields();
